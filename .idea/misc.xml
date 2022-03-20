@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/ANdroidLab6/app/src/main/res/layout/activity_main.xml" value="0.1" />
+        <entry key="..\:/ANdroidLab6/app/src/main/res/layout/downloading_image.xml" value="0.12360688956433637" />
+        <entry key="..\:/Users/fetis/AndroidStudioProjects/AndroidCourse/some/denis/lab6/app/src/main/res/layout-land/activity_main.xml" value="0.17945326278659612" />
+        <entry key="..\:/Users/fetis/AndroidStudioProjects/AndroidCourse/some/denis/lab6/app/src/main/res/layout/activity_coroutines.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/fetis/AndroidStudioProjects/AndroidCourse/some/denis/lab6/app/src/main/res/layout/activity_executor_service.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/fetis/AndroidStudioProjects/AndroidCourse/some/denis/lab6/app/src/main/res/layout/activity_executor_service2.xml" value="0.17481884057971014" />
+        <entry key="..\:/Users/fetis/AndroidStudioProjects/AndroidCourse/some/denis/lab6/app/src/main/res/layout/activity_main.xml" value="0.17481884057971014" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
